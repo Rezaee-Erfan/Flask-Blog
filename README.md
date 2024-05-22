@@ -23,7 +23,7 @@ retrieve, and interact with blog posts and comments.
 
 ## Diagram
 
-![Flask Blog API Diagram](diagram.png)
+![Flask Blog API Diagram](https://github.com/Rezaee-Erfan/Flask-Blog/blob/master/Diagram.png?raw=true)
 
 ## Setup and Running
 
